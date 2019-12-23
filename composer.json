@@ -1,5 +1,5 @@
 {
-    "name": "bshaffer/oauth2-server-httpfoundation-bridge",
+    "name": "varsitynewsnetwork/oauth2-server-httpfoundation-bridge",
     "description":"A bridge to HttpFoundation for oauth2-server-php",
     "keywords":["oauth","oauth2","auth","httpfoundation"],
     "type":"library",
