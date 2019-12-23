@@ -15,7 +15,7 @@
         {
           "type": "vcs",
           "url":  "git@github.com:varsitynewsnetwork/oauth2-server-php.git"
-        },
+        }
     ],
     "homepage": "http://github.com/bshaffer/oauth2-server-httpfoundation-bridge",
     "require":{
